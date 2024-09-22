@@ -1,9 +1,7 @@
 <h2>Olá, eu sou a Isa! ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
-<p>🖥 Graduanda em Análise e Desenvolvimento de Sistemas.</p><br>
+<p>🖥 Graduanda em Análise e Desenvolvimento de Sistemas.</p>
 <p>🌱 Possuo habilidades em HTML, CSS, JavaScript. </p>
-<br>
-
 Javascript | Node.js | React | Bootstrap | Typescript | Next.js | GIT
 
 ## Tech Stack:
