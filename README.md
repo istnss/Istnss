@@ -1,11 +1,10 @@
 <h2>Olá, eu sou a Isa! ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
 <p>🖥 Graduanda em Análise e Desenvolvimento de Sistemas.</p><br>
-<p>🌱 Possuo habilidades em HTML, CSS, JavaScript, Node.js, Java e Spring boot. Também possuo conhecimento em banco de dados SQL, metodologias ágeis e versionamento de código. No momento, estou expandindo meu conhecimento em Angular e React.</p>
+<p>🌱 Possuo habilidades em HTML, CSS, JavaScript. </p>
 <br>
-<p>🌐 Atualmente desenvolvo minhas atividades na Celepar - Companhia de Tecnologia da Informação e Comunicação do Paraná, desenvolvendo atividades relacionadas ao suporte técnico. Possuo experiência em help desk, infra e redes adquirida no meu estágio atual.</p><br>
 
-Javascript | Node.js | React | Bootstrap | Java | SpringBoot | SQL | GIT
+Javascript | Node.js | React | Bootstrap | Typescript | Next.js | GIT
 
 ## Tech Stack:
 <div>
@@ -14,13 +13,9 @@ Javascript | Node.js | React | Bootstrap | Java | SpringBoot | SQL | GIT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
 
 </div>
 
